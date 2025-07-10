@@ -7,7 +7,7 @@ A collection of handy Raspberry Pi scripts. Starting with a simple installer for
 ## Quick Install (Docker + Portainer)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/<your-username>/rpi-scripts/main/install_docker_portainer.sh \
+curl -sL https://raw.githubusercontent.com/barnard704344/rpi-scripts/main/iinstall_docker_portainer.sh \
   -o install_docker_portainer.sh
 chmod +x install_docker_portainer.sh
 sudo ./install_docker_portainer.sh
